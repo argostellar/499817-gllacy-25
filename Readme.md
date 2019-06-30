@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
-* Студент: [Арсений Кудрявцев](https://up.htmlacademy.ru/htmlcss/25/user/499817).
-* Наставник: `Неизвестно`.
+* Студент: [Арсений Кудрявцев](https://up.htmlacademy.ru/htmlcss/24/user/499817).
+* Наставник: Лиза Позднякова. (https://htmlacademy.ru/profile/lizzy)
 
 ---
 
@@ -18,7 +18,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/499817-gllacy-25) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/499817-gllacy-24) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037742-a62a72a0-7bad-11e7-9f36-4db8e9329498.jpg">
 
